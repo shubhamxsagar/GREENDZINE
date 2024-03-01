@@ -24,3 +24,8 @@ This app uses JSON for data integration. The JSON file is located at `app/src/ma
 
 You can download the APK file for the app from the [APK folder](APK/) in this repository.
 
+## Repository File
+You can download the APK file for the app from the [Repository File](GREENDZINE/GREENDZINE/) in this repository.
+
+
+
