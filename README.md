@@ -1,7 +1,7 @@
 ## Screenshots
-<img src="https://github.com/shubhamxsagar/GREENDZINE/assets/72368658/f968526b-4ee9-4309-8c14-c0c01b8ca8e4" width="200" height="400" />
-<img src="https://github.com/shubhamxsagar/GREENDZINE/assets/72368658/2faad108-9281-4d36-9ec8-cd67dee67296" width="200" height="400" />
-<img src="https://github.com/shubhamxsagar/GREENDZINE/assets/72368658/1fcb3e6f-6912-43df-b9c9-3cd3443de644" width="200" height="400" />
+<img src="https://github.com/shubhamxsagar/GREENDZINE/assets/72368658/f968526b-4ee9-4309-8c14-c0c01b8ca8e4" width="180" height="400" />
+<img src="https://github.com/shubhamxsagar/GREENDZINE/assets/72368658/2faad108-9281-4d36-9ec8-cd67dee67296" width="180" height="400" />
+<img src="https://github.com/shubhamxsagar/GREENDZINE/assets/72368658/1fcb3e6f-6912-43df-b9c9-3cd3443de644" width="180" height="400" />
 
 
 ## Installation
