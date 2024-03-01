@@ -16,7 +16,6 @@ This app supports most android devices with screen resolutions:
 - 360 X 800 px
 - 412 X 914 px
 
-- 
 ## Screen Mode
 
 This app compatible with mobile screen for portrait mode only.
