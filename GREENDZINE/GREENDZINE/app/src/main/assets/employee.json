@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Arjun",
+    "dob": "16-11-2000",
+    "role": "Software Engineer"
+  },
+  {
+    "id": "2",
+    "name": "Akash",
+    "dob": "25-05-1995",
+    "role": "Data Scientist"
+  },
+  {
+    "id": "3",
+    "name": "Priya",
+    "dob": "10-09-1992",
+    "role": "Product Manager"
+  },
+  {
+    "id": "4",
+    "name": "Rahul",
+    "dob": "03-07-1988",
+    "role": "UX Designer"
+  },
+  {
+    "id": "5",
+    "name": "Ananya",
+    "dob": "21-12-1990",
+    "role": "Software Developer"
+  },
+  {
+    "id": "6",
+    "name": "Vijay",
+    "dob": "18-04-1985",
+    "role": "Project Manager"
+  },
+  {
+    "id": "7",
+    "name": "Aishwarya",
+    "dob": "14-08-1983",
+    "role": "Quality Analyst"
+  },
+  {
+    "id": "8",
+    "name": "Suresh",
+    "dob": "29-10-1993",
+    "role": "Business Analyst"
+  }
+]

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GREENDZINE</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="we_are_electric">We are Electric</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="_4">4</string>
+    <string name="search_with_name">Search with name</string>
+    <string name="productivity_on_tuesday">Productivity on Tuesday</string>
+    <string name="productivity_on_saturday">Productivity on Saturday</string>
+    <string name="productivity_on_friday">Productivity on Friday</string>
+    <string name="productivity_on_thursday">Productivity on Thursday</string>
+    <string name="productivity_on_wednesday">Productivity on Wednesday</string>
+    <string name="productivity_on_monday">Productivity on Monday</string>
+    <string name="employee_productivity_dashboard">Employee Productivity Dashboard</string>
+    <string name="emp_id">EMP ID</string>
+    <string name="name">Name</string>
+    <string name="dob">DOB</string>
+    <string name="role">Role</string>
+</resources>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/black"
+    tools:context=".activity.LoginActivity">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="50dp"
+                android:src="@drawable/logo" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:textColor="@color/green1"
+                android:text="@string/we_are_electric"
+                android:fontFamily="@font/mulish_regular"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="50dp"
+                android:layout_marginLeft="70dp"
+                android:layout_marginRight="70dp">
+
+                <EditText
+                    android:id="@+id/email"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="15dp"
+                    android:paddingBottom="15dp"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:elevation="20dp"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true"
+                    android:hint="@string/e_mail"
+                    android:inputType="textEmailAddress"
+                    android:textSize="15sp"
+                    android:textColor="@color/white"
+                    android:fontFamily="@font/mulish_bold"
+                    android:textColorHint="@color/white"
+                    android:background="@drawable/edit_text_box"
+                    />
+
+                <EditText
+                    android:id="@+id/password"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="15dp"
+                    android:paddingBottom="15dp"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:elevation="20dp"
+                    android:layout_marginTop="20dp"
+                    android:hint="@string/password"
+                    android:inputType="textPassword"
+                    android:textSize="15sp"
+                    android:textColor="@color/white"
+                    android:fontFamily="@font/mulish_bold"
+                    android:textColorHint="@color/white"
+                    android:background="@drawable/edit_text_box"
+                    />
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/login"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="40dp"
+                    android:text="@string/login"
+                    android:textColor="@color/white"
+                    android:textAllCaps="false"
+                    android:background="@drawable/button"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/forgot_password"
+                    android:textColor="@color/green1"
+                    android:layout_marginTop="20dp"
+                    android:fontFamily="@font/mulish_regular"
+                    android:textAlignment="center"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+</LinearLayout>
